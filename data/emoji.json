@@ -1,0 +1,23 @@
+{
+    "star": "⭐",
+    "star_empty": "☆",
+    "feedback": "✏️",
+    "success": "✅",
+    "error": "❌",
+    "warning": "⚠️",
+    "info": "ℹ️",
+    "setup": "🛠️",
+    "review": "💜",
+    "user": "👤",
+    "date": "📅",
+    "rating": "⭐",
+    "bot": "🤖",
+    "admin": "👑",
+    "source": "📦",
+    "arrow": "➜",
+    "check": "✅",
+    "ping": "🏓",
+    "heart": "❤️",
+    "fire": "🔥",
+    "sparkle": "✨"
+}
